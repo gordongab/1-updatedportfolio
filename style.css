@@ -15,7 +15,7 @@ main {
 #gabe-pic
 {   
     padding-top: 60px;
-    padding-left: 80px;
+    padding-left: 100px;
 }
 
 #github {
@@ -113,7 +113,7 @@ h3 {
 }
 
 #sample1{
-    width: 250px;
+    width: 300px;
     height: 200;
     padding-left: 30px;
     padding-bottom: 30px;
@@ -121,14 +121,14 @@ h3 {
 
 
 #sample2{
-    width: 250px;
+    width: 300px;
     height: 200;
     padding-left: 30px;
     padding-bottom: 30px;
 }
 
 #sample3{
-    width: 250px;
+    width: 300px;
     height: 200;
     padding-left: 30px;
     padding-bottom: 30px;
@@ -140,7 +140,7 @@ h3 {
 }
 
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 700px) {
 
 main {
         height: 100%;
@@ -153,7 +153,7 @@ main {
 #gabe-pic
     {
         position: absolute;
-        padding-left: 950px;
+        padding-left: 1050px;
         padding-top: 380px;
     }
 
@@ -195,7 +195,7 @@ main {
 #sample1{
     width: 250px;
     height: 200;
-    padding-left: 70px;
+    padding-left: 200px;
     padding-bottom: 70px;
     }
 
